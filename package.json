@@ -1,0 +1,16 @@
+{
+  "name": "lyne_maina",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Lyne_Maina.js",
+  "scripts": {
+    "start": "node Lyne_Maina.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
